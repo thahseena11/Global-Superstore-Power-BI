@@ -10,7 +10,8 @@ The Data has been passing through the following processes:
 *Basic Data cleaning
 
 ## Creating Dash board:
-1. Sales over city,region,state,country,market:
+ 1. Sales over city,region,state,country,market:
+   
 *visualization of total sales,total profit,total products and customers
 
 *visualization of Yearly analysis of total sales and profit
@@ -20,5 +21,6 @@ The Data has been passing through the following processes:
 *Visualization of total sales and profit by category and segment
 
 2. Analysis of shipping:
-*visualization of analysis of percentage of shipping based on shipmode
+*visualization of analysis of percentage of shipping based on shipmode.
+
 *Analysis of shipping cost,profit,customers and product.
