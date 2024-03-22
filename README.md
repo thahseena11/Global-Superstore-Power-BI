@@ -10,7 +10,7 @@ The Data has been passing through the following processes:
 *Basic Data cleaning
 
 ## Creating Dash board:
-## Sales over city,region,state,country,market:
+ Sales over city,region,state,country,market:
 *visualization of total sales,total profit,total products and customers
 
 *visualization of Yearly analysis of total sales and profit
