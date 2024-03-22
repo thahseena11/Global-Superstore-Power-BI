@@ -16,11 +16,32 @@ The Data has been passing through the following processes:
 
 *visualization of Yearly analysis of total sales and profit
 
-*Analysis of sales by market,region,country,state and city.
+*Analysis of sales and profit by market,region,country,state and city.
 
 *Visualization of total sales and profit by category and segment
 
 2. Analysis of shipping:
+   
 *visualization of analysis of percentage of shipping based on shipmode.
 
 *Analysis of shipping cost,profit,customers and product.
+
+3. Tables of Visualization:
+
+* Total sales and profit by category
+
+* Total sales and profit by Segment
+
+* Sum of shipping cost by shipping mode
+
+* Analysis os sales and profit by State
+
+* Analysis of Sales and profit by Country
+
+* Total Sales by Region and Country
+
+* Analysis of Total Sales by Market
+
+# Conclusion:
+This project will help you to get the detailed report on analysis and entire insights of the data on Global superstore.
+     
