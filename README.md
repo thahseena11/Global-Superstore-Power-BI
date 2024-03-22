@@ -4,12 +4,12 @@ Data on their sale transaction such as Sales,shipping cost,products,profit,custo
 Analysis of Sales over city,state,region and market,percentage of shipping based on ship mode by visualization,tables for the visualization.
 The Data has been passing through the following processes:
 
-# Data preprocessing:
-## *Data Transformation
+## Data preprocessing:
+*Data Transformation
 
-## *Basic Data cleaning
+*Basic Data cleaning
 
-# Creating Dash board:
+## Creating Dash board:
 ## Sales over city,region,state,country,market:
 *visualization of total sales,total profit,total products and customers
 
