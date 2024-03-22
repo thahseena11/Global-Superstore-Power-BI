@@ -12,19 +12,19 @@ The Data has been passing through the following processes:
 ## Creating Dash board:
  1. Sales over city,region,state,country,market:
    
-*visualization of total sales,total profit,total products and customers
+   *visualization of total sales,total profit,total products and customers
 
-*visualization of Yearly analysis of total sales and profit
+   *visualization of Yearly analysis of total sales and profit
 
-*Analysis of sales and profit by market,region,country,state and city.
+   *Analysis of sales and profit by market,region,country,state and city.
 
-*Visualization of total sales and profit by category and segment
+   *Visualization of total sales and profit by category and segment
 
 2. Analysis of shipping:
    
-*visualization of analysis of percentage of shipping based on shipmode.
+   *visualization of analysis of percentage of shipping based on shipmode.
 
-*Analysis of shipping cost,profit,customers and product.
+   *Analysis of shipping cost,profit,customers and product.
 
 3. Tables of Visualization:
 
