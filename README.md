@@ -9,7 +9,6 @@ The Data has been passing through the following processes:
 
    *Basic Data cleaning
 
-   C:\Users\Faheem\Videos\Global superstore video presentation.mp4
 
 ## Creating Dash board:
  1. Sales over city,region,state,country,market:
